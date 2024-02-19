@@ -11,9 +11,9 @@
 }
 
 .main-border{
+    border-top: 2px solid #1DD100;
     border-top-left-radius: 9%;
     border-top-right-radius: 9%;
-    border-top: 2px solid #1DD100;
 }
 
 .body-border{
